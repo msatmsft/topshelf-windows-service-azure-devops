@@ -13,3 +13,11 @@ Go to visual studio marketplace and [Install WSM Plugin](https://marketplace.vis
 
 ![alt text](https://raw.githubusercontent.com/msatmsft/topshelf-windows-service-azure-devops/master/img/3.png)
 
+Once plugin is install let's create Deployment Group in Azure DevOps.
+
+![alt text](https://raw.githubusercontent.com/msatmsft/topshelf-windows-service-azure-devops/master/img/4.png)
+
+![alt text](https://raw.githubusercontent.com/msatmsft/topshelf-windows-service-azure-devops/master/img/5.png)
+
+Make sure to check the box "Use a personal access token in the script for authentication" and click Copy Script to the Clipboard button.
+
