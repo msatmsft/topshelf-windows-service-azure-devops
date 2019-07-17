@@ -30,7 +30,7 @@ Log in to your deployment VM and open Powershell ( Not Powershell ISE) and run t
 ### Azure DevOps Build Pipleline
 I am using .NET Desktop template to create build pipeline. See Below.
 
-![alt text](https://raw.githubusercontent.com/msatmsft/topshelf-windows-service-azure-devops/master/img/6.png)
+![alt text](https://raw.githubusercontent.com/msatmsft/topshelf-windows-service-azure-devops/master/img/6.PNG)
 
 ### Azure DevOps Release Pipeline
 
