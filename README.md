@@ -7,8 +7,9 @@ This article describes deployment of Windows Service ( Topshelf ) using Azure De
 ### Install Windows Service Manager Plugin
 Go to visual studio marketplace and [Install WSM Plugin](https://marketplace.visualstudio.com/items?itemName=MDSolutions.WindowsServiceManagerWindowsServiceManager).
 
-![alt text](https://raw.githubusercontent.com/msatmsft/)
+![alt text](https://raw.githubusercontent.com/msatmsft/topshelf-windows-service-azure-devops/master/img/1.png)
 
-![alt text](https://raw.githubusercontent.com/msatmsft/)
+![alt text](https://raw.githubusercontent.com/msatmsft/topshelf-windows-service-azure-devops/master/img/2.png)
 
-![alt text](https://raw.githubusercontent.com/msatmsft/)
+![alt text](https://raw.githubusercontent.com/msatmsft/topshelf-windows-service-azure-devops/master/img/3.png)
+
